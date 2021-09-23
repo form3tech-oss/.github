@@ -1,6 +1,6 @@
 # Hi. We're [Form3](https://www.form3.tech/) 👋
 
-![Our Logo](./form3-logo-gopher.png)
+![Our Logo](/profile/form3-logo-gopher.png)
 
 ## Our story 🚀
 We are a cloud-native Payment Technology Platform providing core payments infrastructure for financially regulated businesses. <br>
