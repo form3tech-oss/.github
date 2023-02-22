@@ -4,10 +4,10 @@
 
 ## Our story 🚀
 We are a cloud-native Payment Technology Platform providing core payments infrastructure for financially regulated businesses. <br>
-Launched in 2016 we have gone from start-up to established scale-up at a sensational pace. We are now a team of close to 250 amazing people and proudly partner with some of the most exciting and disruptive banks and FinTech’s in the world. <br>
+Launched in 2016 we have gone from start-up to established scale-up at a sensational pace. We are now a team of over 500 amazing people and proudly partner with some of the most exciting and disruptive banks and FinTech’s in the world. <br>
 We’ve rolled out into Europe and have ambitious plans to expand internationally. We are massively excited about our journey - and it’s only the beginning! ☀️
 
-If you want to learn more about us and the awesome work we do, please check out our [blog](https://www.form3.tech/blog) 📝  and our [podcast](https://techpodcast.form3.tech/) 🎧.
+If you want to learn more about us and the awesome work we do, please check out our [blog](https://www.form3.tech/engineering/content) 📝  and our [podcast](https://techpodcast.form3.tech/) 🎧.
 
 ## Check out some of our popular repos! 🤩
 We take pride in contributions to the OSS community. We 💙 automating our processes and sharing our solutions!
