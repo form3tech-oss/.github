@@ -29,7 +29,7 @@ Please raise issues on our projects if you find any problems or make your own co
 - Check the repository README for any dependencies you need to install
 - Create a new branch and make your change
 - Push to your fork and submit a pull request
-- Check to see that your pull request Travis checks are passing 💥
+- Check to see that your pull request checks are passing 💥
 - You're done! 🏁
 
 We will then review your change and provide feedback as required.<br>
@@ -37,6 +37,6 @@ High-five for teamwork! 🙌
 
 ## Thanks for stopping by! 🥳
 
-If you want to keep in touch, please follow us on [Twitter](https://twitter.com/F3FinCloud).
+If you want to keep in touch, please follow us on [Twitter](https://twitter.com/Form3Cloud).
 
 If you're curious about our job openings, please check out our [careers site](https://www.form3.tech/careers).
