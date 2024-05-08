@@ -12,7 +12,7 @@ infosec@form3.tech
 
 **When reporting a vulnerability, we request that you:**
 
-* **Provide detailed information:** Include descriptions of the vulnerability, the affected software versions, and any steps to reproduce the isse.
+* **Provide detailed information:** Include descriptions of the vulnerability, the affected software versions, and any steps to reproduce the issue.
 * **Technical details:** Share relevant code examples, screenshots, and any materials to help us understand the problem.
 * **Exercise patience:** Please allow us a reasonable time to investigate and respond to your report making any public disclosures.
 * **Act in good faith:** Avoid any actions that could disrupt services or compromise data for our users.
