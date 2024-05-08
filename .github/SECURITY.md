@@ -2,8 +2,6 @@
 
 Thank you for helping us keep our software safe and secure. We value the security community and the important work you do. This document outlines our approach to handling security vulnerabilities.
 
-## Supported Versions
-
 ## Reporting a Vulnerability
 
 **Please responsibly disclose any potential security vulnerabilities by mailing the following address:**
