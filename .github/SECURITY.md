@@ -6,7 +6,7 @@ Thank you for helping us keep our software safe and secure. We value the securit
 
 If you believe to have discovered a potential vulnerability relating to Form3's systems, please responsibly disclose your findings to our team using the the following mailbox:
 
-responsible.disclosures@form3.tech
+responsible.disclosure@form3.tech
 
 **When reporting a vulnerability, we request that you:**
 
