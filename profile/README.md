@@ -37,6 +37,4 @@ High-five for teamwork! 🙌
 
 ## Thanks for stopping by! 🥳
 
-If you want to keep in touch, please follow us on [Twitter](https://twitter.com/Form3Cloud).
-
 If you're curious about our job openings, please check out our [careers site](https://www.form3.tech/careers).
