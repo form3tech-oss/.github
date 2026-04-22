@@ -19,7 +19,7 @@ Reports without sufficient detail or clear security impact may not be actioned.
 
 ## Scope
 
-This policy applies to Form3-owned systems and services. Third-party services or dependencies are out of scope.
+This policy applies to Form3 systems and services. Third-party services or dependencies are out of scope.
 
 ## Guidelines
 
@@ -38,11 +38,11 @@ The following are generally considered out of scope or low priority:
 
 ## Coordinated Disclosure
 
-We request that you do not publicly disclose vulnerabilities without prior coordination with Form3.
+We ask that you do not publicly disclose vulnerabilities, including referencing Form3 in connection with a vulnerability, until we have had a reasonable opportunity to investigate and remediate the issue.
 
-We are open to working with you on appropriate disclosure timelines and communications. Any public disclosure should be accurate, reflect the actual impact, and be shared responsibly.
+Please coordinate with us prior to any public disclosure so we can agree on appropriate timing and messaging. Once disclosure is agreed, any public communication should be accurate, reflect the actual impact, and be shared responsibly.
 
-We reserve the right to respond to any public disclosure that is inaccurate or misleading.
+We will not unreasonably delay public disclosure once a fix or mitigation is available.
 
 ## Our Commitment
 
