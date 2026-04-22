@@ -38,11 +38,11 @@ The following are generally considered out of scope or low priority:
 
 ## Coordinated Disclosure
 
-We request that you do not publicly disclose vulnerabilities until we have had a reasonable opportunity to investigate and remediate the issue.
+We request that you do not publicly disclose vulnerabilities without prior coordination with Form3.
 
-We are open to coordinating disclosure timelines and communications where appropriate.
+We are open to working with you on appropriate disclosure timelines and communications. Any public disclosure should be accurate, reflect the actual impact, and be shared responsibly.
 
-We ask that any public disclosure is accurate, reflects the actual impact, and is shared responsibly.
+We reserve the right to respond to any public disclosure that is inaccurate or misleading.
 
 ## Our Commitment
 
