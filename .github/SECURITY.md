@@ -1,52 +1,62 @@
 # Security Policy
 
-Thank you for helping us keep our software safe and secure. We value the security community and the important work you do. This document outlines our approach to handling security vulnerabilities.
+Thank you for helping keep Form3 systems and services secure. We value responsible disclosure and the work of the security community.
 
 ## Reporting a Vulnerability
 
-If you believe to have discovered a potential vulnerability relating to Form3's systems, please responsibly disclose your findings to our team using the the following mailbox:
+If you believe you have discovered a potential security vulnerability, please report it to:
 
 responsible.disclosure@form3.tech
 
-**When reporting a vulnerability, we request that you:**
+To help us triage effectively, please include:
 
-* Provide detailed information:** Including a description of the vulnerability and the areas/software/versions affected.
-* Technical details: This should include a non-disruptive, proof of concept with relevant screenshots, code snippets and other materials that will help us to further understand the problem. This will help us triage your report swiftly and accurately.
-* Exercise patience: Please allow us a reasonable time to investigate and response to your report before making any public disclosures. We will aim to keep you informed of our progress.
-* Act in good faith: Avoid any actions that could disrupt services or compromise data for our users.
+- A clear description of the issue and affected system(s)
+- Reproduction steps and a non-disruptive proof of concept
+- Supporting evidence (e.g. screenshots, logs, code snippets)
+- An assessment of potential impact
 
-## Our commitment
+Reports without sufficient detail or clear security impact may not be actioned.
 
-* We will acknowledge the receipt of your vulnerability report as soon as possible.
-* We will work diligently to investigate and provide updates on the reported vulnerability in a timely manner.
-* If you are willing we will collaborate with you to validate and understand the full impact of the vulnerability.
-* If appropriate, we will release security patches or updates to address the reported vulnerability, which you will be notified of and in some cases you may be invited to confirm that the solution covers the vulnerability you have raised.
-* We may choose to publicly acknowledge your responsible disclosure, if you are agreeable. If you are we would like to unify our release with you so please continue to coordinate with us.
+## Scope
 
-## Guidance
+This policy applies to Form3 systems and services. Third-party services or dependencies are out of scope.
 
-We highly appreciate any responsible disclosures presented to us in good faith, in accordance to this we ask that:
-You must not:
+## Guidelines
 
-- Break any applicable law or regulations.
-- Access unnecessary, excessive or significant amounts of data.
-- Modify data in the Organisation's systems or services.
-- Use high-intensity invasive or destructive scanning tools to find vulnerabilities.
-- Attempt or report any form of denial of service, e.g. overwhelming a service with a high volume of requests.
-- Disrupt the Organisation's services or systems.
-- Submit reports detailing non-exploitable vulnerabilities, or reports indicating that the services do not fully align with "best practice", for example missing security headers.
-- Submit reports detailing TLS configuration weaknesses, for example "weak" cipher suite support or the presence of TLS1.0 support.
-- Communicate any vulnerabilities or associated details other than by means described in the published security.md.
-- Social engineer, "phish" or physically attack the Organisation's staff or infrastructure.
-- Demand financial compensation in order to disclose any vulnerabilities.
+We ask that you:
 
-You must:
+- Act in good faith and avoid actions that could harm our systems or users
+- Do not access, modify, or exfiltrate data beyond what is necessary to demonstrate the issue
+- Do not disrupt services (e.g. denial of service or high-volume scanning)
+- Do not engage in social engineering, phishing, or physical attacks
 
-- Always comply with data protection rules and must not violate the privacy of any data the Organisation holds. You must not, for example, share, redistribute or fail to properly secure data retrieved from the systems or services.
-- Securely delete all data retrieved during your research as soon as it is no longer required or within 1 month of the vulnerability being resolved, whichever occurs first (or as otherwise required by data protection law).
+The following are generally considered out of scope or low priority:
 
-## Legalities
+- Low-impact issues without demonstrable security impact
+- Missing best practice configurations (e.g. security headers)
+- TLS configuration preferences (e.g. cipher suites, legacy protocol support)
 
-This policy is designed to be compatible with common vulnerability disclosure good practice. It does not give you permission to act in any manner that is inconsistent with the law, or which might cause the Organisation or partner organisations to be in breach of any legal obligations.
+## Coordinated Disclosure
 
-**Thank you for your commitment to keeping our software secure!**
+We ask that you do not publicly disclose vulnerabilities, including referencing Form3 in connection with a vulnerability, until we have had a reasonable opportunity to investigate and remediate the issue.
+
+Please coordinate with us prior to any public disclosure so we can agree on appropriate timing and messaging. Once disclosure is agreed, any public communication should be accurate, reflect the actual impact, and be shared responsibly.
+
+We will not unreasonably delay public disclosure once a fix or mitigation is available.
+
+## Our Commitment
+
+- We will acknowledge receipt of your report
+- We will investigate and provide updates as appropriate
+- Where applicable, we will remediate validated issues
+- We may acknowledge your contribution, with your consent
+
+## Legal
+
+This policy does not grant permission to act in any way that violates applicable laws or regulations.
+
+## Rewards
+
+We do not operate a bug bounty programme and do not offer financial compensation for vulnerability reports.
+
+Thank you for helping us improve our security.
