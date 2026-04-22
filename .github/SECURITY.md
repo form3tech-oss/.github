@@ -15,7 +15,7 @@ To help us triage effectively, please include:
 - Supporting evidence (e.g. screenshots, logs, code snippets)
 - An assessment of potential impact
 
-Reports without sufficient detail or demonstrable impact may not be actioned.
+Reports without sufficient detail or clear security impact may not be actioned.
 
 ## Scope
 
@@ -29,13 +29,20 @@ We ask that you:
 - Do not access, modify, or exfiltrate data beyond what is necessary to demonstrate the issue
 - Do not disrupt services (e.g. denial of service or high-volume scanning)
 - Do not engage in social engineering, phishing, or physical attacks
-- Do not publicly disclose the issue until we have had reasonable time to investigate and respond
 
 The following are generally considered out of scope or low priority:
 
-- Reports without a clear security impact
+- Low-impact issues without demonstrable security impact
 - Missing best practice configurations (e.g. security headers)
 - TLS configuration preferences (e.g. cipher suites, legacy protocol support)
+
+## Coordinated Disclosure
+
+We request that you do not publicly disclose vulnerabilities until we have had a reasonable opportunity to investigate and remediate the issue.
+
+We are open to coordinating disclosure timelines and communications where appropriate.
+
+We ask that any public disclosure is accurate, reflects the actual impact, and is shared responsibly.
 
 ## Our Commitment
 
